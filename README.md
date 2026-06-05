@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-breath-across-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Your Breath Across Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-across-skin/) |
+| **Get License** | [Request Licensing for Your Breath Across Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-across-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows in the room are dancing slow
+> I'm captivated by your steady glow
+> You lean in close, the world begins to spin
+> I just want to feel your breath across my skin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
