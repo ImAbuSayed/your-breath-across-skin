@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-breath-across-skin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Your Breath Across Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-across-skin/) |
+| **Get License** | [Official Music Licensing for Your Breath Across Skin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-breath-across-skin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2fdd17826670559ba7e2b86734b847636d89eb81a2881cff425645dbd8485a41` |
 | **Timestamp** | June 05, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

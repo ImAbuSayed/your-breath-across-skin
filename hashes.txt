@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Breath Across Skin
+
+This log tracks the cryptographic history and versioning for the song **Your Breath Across Skin** (your-breath-across-skin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T21:06:13.293143 | `v1` | `2fdd17826670559ba7e2b86734b847636d89eb81a2881cff425645dbd8485a41` | `c05713ba762cc2079e31d35fabcae4e2f427df88e1fe5cb5e78e13768305d52b` | `2026-06-05_your-breath-across-skin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
